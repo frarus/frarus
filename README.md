@@ -1,5 +1,5 @@
 ## Hello friend 👋
-- 💻 I'm a MSc student in Artificial Intelligence and Data Analytics @ PoliTo
+- 💻 I'm a PhD Student in Human-Centered AI for Educational Systems @PoliTo
 - 📍 I'm based in Turin, Italy 
 
 ## Git Stats 📈 
